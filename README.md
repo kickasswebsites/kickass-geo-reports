@@ -5,3 +5,4 @@ Each report renders in-browser via GitHub Pages.
 
 ## Reports
 - [Gencon Generator Rental](https://kickasswebsites.github.io/kickass-geo-reports/Gencon_Generator_Rental_AI_Visibility_Audit.pdf)
+- [Kickass Websites](https://kickasswebsites.github.io/kickass-geo-reports/Kickass_Websites_AI_Visibility_Audit.pdf)
